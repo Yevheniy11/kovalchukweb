@@ -1,0 +1,7 @@
+git branch pz1_3_1
+git checkout pz1_3_1
+git commit -m ""
+git merge "назва"
+git branch -D __________
+git push
+git branch pz1_3_2
