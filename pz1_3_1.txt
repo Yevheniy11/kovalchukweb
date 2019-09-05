@@ -2,3 +2,4 @@ Git clone робимо клон створеного глобального репозиторію в довільну дерикторію н
 git add 
 git commit -m "commit"
 git push
+git status
